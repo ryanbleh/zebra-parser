@@ -136,7 +136,7 @@ def startWorld(world):
 
     team_key = 'frc1540'  # Example team key
     world.match_key = '2023orore_f1m3'
-    api_key = 'kgzgO1XK3IJO3Ire0au6MOGiqvX7a6oGgJ4b7v3AbEdK1fUlKQOJZOueOKmpNgGs'
+
 
     headers = {
         'X-TBA-Auth-Key': api_key
